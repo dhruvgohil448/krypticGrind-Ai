@@ -2,7 +2,7 @@
 //  AIProblemSuggestionCard.swift
 //  KrypticGrind
 //
-//  Created by akhil on 03/07/25.
+//  Created by Dhruv Gohil on 03/07/25.
 //
 
 import SwiftUI

@@ -569,7 +569,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"krypticGrind/Preview Content\"";
-				DEVELOPMENT_TEAM = KH96FSA6YT;
+				DEVELOPMENT_TEAM = 73AJY24UWM;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -591,7 +591,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.6;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akhilraghav.krypticGrind;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dhruvgohil.krypticGrind;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -611,7 +611,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"krypticGrind/Preview Content\"";
-				DEVELOPMENT_TEAM = KH96FSA6YT;
+				DEVELOPMENT_TEAM = 73AJY24UWM;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -633,7 +633,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.6;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akhilraghav.krypticGrind;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dhruvgohil.krypticGrind;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -650,7 +650,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = KH96FSA6YT;
+				DEVELOPMENT_TEAM = 73AJY24UWM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContestLiveActivityWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContestLiveActivityWidget;
@@ -662,7 +662,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akhilraghav.krypticGrind.ContestLiveActivityWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dhruvgohil.krypticGrind.ContestLiveActivityWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -679,7 +679,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = KH96FSA6YT;
+				DEVELOPMENT_TEAM = 73AJY24UWM;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContestLiveActivityWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContestLiveActivityWidget;
@@ -691,7 +691,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.akhilraghav.krypticGrind.ContestLiveActivityWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dhruvgohil.krypticGrind.ContestLiveActivityWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;

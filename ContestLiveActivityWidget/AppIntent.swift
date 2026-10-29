@@ -2,7 +2,7 @@
 //  AppIntent.swift
 //  ContestLiveActivityWidget
 //
-//  Created by akhil on 01/07/25.
+//  Created by Dhruv Gohil on 01/07/25.
 //
 
 import WidgetKit

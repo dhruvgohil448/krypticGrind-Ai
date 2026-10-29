@@ -2,7 +2,7 @@
 //  CFService.swift
 //  KrypticGrind
 //
-//  Created by akhil on 29/06/25.
+//  Created by Dhruv Gohil on 29/06/25.
 //
 
 import Foundation
@@ -48,7 +48,7 @@ class CFService: ObservableObject {
     // Background queue for network operations
     private let backgroundQueue = DispatchQueue(label: "com.krypticgrind.cfservice", qos: .userInitiated)
     private let session: URLSession
-    private let logger = Logger(subsystem: "com.akhilraghav.krypticGrind", category: "CFService")
+    private let logger = Logger(subsystem: "com.dhruvgohil.krypticGrind", category: "CFService")
     private let networkMonitor = NetworkMonitor.shared
     
     // Published properties for reactive UI

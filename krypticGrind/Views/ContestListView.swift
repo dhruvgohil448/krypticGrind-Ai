@@ -2,7 +2,7 @@
 //  ContestListView.swift
 //  KrypticGrind
 //
-//  Created by akhil on 29/06/25.
+//  Created by Dhruv Gohil on 29/06/25.
 //  Enhanced with contest problems display, analytics, and improved UX
 //
 

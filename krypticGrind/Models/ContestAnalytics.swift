@@ -2,7 +2,7 @@
 //  ContestAnalytics.swift
 //  KrypticGrind
 //
-//  Created by akhil on 14/07/25.
+//  Created by Dhruv Gohil on 14/07/25.
 //
 
 import Foundation

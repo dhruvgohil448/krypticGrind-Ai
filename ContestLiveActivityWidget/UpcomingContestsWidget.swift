@@ -2,7 +2,7 @@
 //  UpcomingContestsWidget.swift
 //  ContestLiveActivityWidget
 //
-//  Created by akhil on 29/06/25.
+//  Created by Dhruv Gohil on 29/06/25.
 //
 
 import WidgetKit
